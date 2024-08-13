@@ -12,7 +12,6 @@
 - 💬 Ask me about **HTML,CSS,JS,JAVA,PYTHON...**
 
 - 📫 How to reach me **asikhhamza2001@gmail.com**
-  <a href="https://app.daily.dev/hamzaaslikh"><img src="https://api.daily.dev/devcards/v2/LDd6oysgrCHmZkbm4YPnh.png?r=oom&type=default" width="356" alt="Hamza Aslikh's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oclaz&show_icons=true&locale=en" alt="oclaz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oclaz&" alt="oclaz" /></p>
+  <a href="https://app.daily.dev/hamzaaslikh"><img src="https://api.daily.dev/devcards/v2/LDd6oysgrCHmZkbm4YPnh.png?r=oom&type=default" width="356" alt="Hamza Aslikh's Dev Card"/></a>
