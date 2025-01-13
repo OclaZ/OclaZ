@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ASLIKH HAMZA</h1>
-<h3 align="center">A passionate developer from 🇲🇦</h3>
+<h3 align="center">A passionate developer from </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oclaz&label=Profile%20views&color=0e75b6&style=flat" alt="oclaz" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML,CSS,JS,JAVA,PYTHON...**
 
-- 📫 How to reach me **asikhhamza2001@gmail.com**
+- 📫 How to reach me **hello@hamzaaslikh.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
