@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@0claz" target="blank"><img src="https://img.shields.io/twitter/follow/@0claz?logo=twitter&style=for-the-badge" alt="@0claz" /></a> </p>
 
-- 🌱 I’m currently learning **NEXTJs**
+- 🌱 I’m currently learning **Python 'Ai bootcamp'**
 
 - 💬 Ask me about **HTML,CSS,JS,JAVA,PYTHON...**
 
